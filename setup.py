@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 ## edit below variables as per your requirements -
 REPO_NAME = "opencv_basic"
-AUTHOR_USER_NAME = "c17hawke"
+AUTHOR_USER_NAME = "ashutosh0428"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
 
@@ -13,7 +13,7 @@ LIST_OF_REQUIREMENTS = []
 setup(
     name=SRC_REPO,
     version="0.0.1",
-    author=ashutosh0428,
+    author=Ashutosh,
     description="A small package for MLflow app",
     long_description=long_description,
     long_description_content_type="text/markdown",
